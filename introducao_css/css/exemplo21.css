@@ -1,0 +1,9 @@
+#grad1 {
+    height: 200px;
+    background: linear-gradient(pink,#FFFFFF); 
+}
+  #grad2 {
+      height: 200px;
+      background-color: #FF0000; 
+      background-image: url("http://www.jc.com.br/bg_color.png");
+  }
