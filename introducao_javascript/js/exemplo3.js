@@ -1,4 +1,4 @@
-function funcao() {
+function minhacasaalua() {
     alert('Ola mundo!');
 }
 
